@@ -1,2 +1,2 @@
 # NewsApplication
-An Android application to show latest news. Implementing MVVM, Databinding, LiveData
+An Android application to show latest news. Implemented using MVVM, Databinding, LiveData in kotlin
